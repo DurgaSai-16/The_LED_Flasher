@@ -19,7 +19,7 @@
   1. Make the connections as per circuit diagram.
   2. Open the Arduino IDE software.
   3. Click on file and then click on new to create a new sketch file.
-  4. Code the Arduino UNO to control LED Flasher.
+  4. [Code](https://github.com/DurgaSai-16/The_LED_Flasher/blob/main/Code) the Arduino UNO to control LED Flasher.
   5. Connect Arduino UNO to computer.
   6. Click on tools and then click on board and select Arduino UNO.
   7. Now, select correct serial port by clicking on Tools and then Serial Port select required Port.
@@ -28,7 +28,7 @@
   1. Open [Tinkercad](https://www.tinkercad.com/dashboard)
   2. Select "Circuits" there.
   3. Make the connections as per circuit diagram.
-  4. Click on code button and then Blocks select one(Blocks, Blocks+Text,Text) to Code ![FlasherCircuit](https://user-images.githubusercontent.com/85128689/123168795-148e8700-d496-11eb-8402-0b54636e5f5d.jpeg)
+  4. Click on code button and then Blocks select one(Blocks, Blocks+Text,Text) to [Code](https://github.com/DurgaSai-16/The_LED_Flasher/blob/main/Code) ![FlasherCircuit](https://user-images.githubusercontent.com/85128689/123168795-148e8700-d496-11eb-8402-0b54636e5f5d.jpeg)
   5. Finish it off in style by clicking on Start simulation to observe the output.
 
 * **Observation:** The LED in circuit is obsereved be to turn ON and OFF (i.e., Blinking)for regular interval of time.
